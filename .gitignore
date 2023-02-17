@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 
 深度学习/mnist_data
+.idea
